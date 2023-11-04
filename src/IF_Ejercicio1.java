@@ -1,7 +1,4 @@
-import javax.swing.*;
-import java.net.PortUnreachableException;
 import java.util.Scanner;
-
 public class IF_Ejercicio1 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
